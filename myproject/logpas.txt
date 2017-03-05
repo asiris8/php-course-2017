@@ -1,0 +1,2 @@
+username;lastname;BirthDay;Plase of Birthday;BirthDay;
+Vlad;Linkovsky;;Novosibirsk;Barnaul;
